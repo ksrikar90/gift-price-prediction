@@ -25,4 +25,4 @@ Tools Used:
 1.) Anaconda Spyder
 2.) Jupyter
 3.) python
-4.) sci-kit learn
+4.) scikit learn
